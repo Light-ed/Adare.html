@@ -1,0 +1,77 @@
+header{
+    background-image: url(/mealer.jpg);
+    background-position: top;
+    background-size: cover;
+    text-align: center;
+}
+#logo{
+
+}
+#nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+#nav{
+    background-color: rgba(0, 0, 0, 0.299);
+    padding:15px;
+    margin-inline: 200px;
+    margin-top: 40px;
+}
+#text{
+    margin-top: 150px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+#first_text{
+    color: white;
+    font-size: 15px;
+}
+h5{
+    text-decoration: underline;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-bottom: 300px;
+}
+#map{
+    position: absolute; 
+    width: 78%;
+    height: 45%;
+    bottom: -150px;
+    Left: 175px;
+}
+#video{
+    padding-top: 270px;
+    display: flex;
+    justify-content: center;
+
+}
+body{
+    height: 1700px;
+    background-color: rgb(57, 54, 54);
+}
+#video_link{
+    width: 78.7%;
+    height: 400px;
+}
+#footer_con{
+    background-position: center;
+    background-position: contain;
+    background-color: black;
+    margin-top: 100px;
+    text-align: center;
+    width: 79.1%;
+    height: 200px;
+    position: relative;
+    left: 165px;
+}
+#footer_text{
+    color: white;
+    padding: 50px;
+    font-size: 20px;
+    text-decoration: wavy;
+}
